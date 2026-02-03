@@ -41,3 +41,91 @@
 - **Generative AI for Everyone**  
   🔗 (https://www.coursera.org/account/accomplishments/verify/B1FJEF346PFS)
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+## 🏢 Professional Experience
+### QA Engineer — Samsung
+At Samsung, I significantly strengthened both my **technical and soft skills**. I worked on **large-scale eCommerce applications**, where I:
+- Designed and executed test strategies for UI and functional workflows  
+- Developed **test automation scripts** for critical user journeys  
+- Collaborated closely with developers, product owners, and DevOps teams  
+- Improved release quality through structured regression and automation  
+
+In previous roles, I also ensured the **smooth operation of internal systems**, proactively identifying and reporting defects to maintain system stability.
+
+---
+
+## ☁️ Amazon Web Services (AWS)
+- Tested applications hosted on **AWS cloud environments**
+- Supported testing across **DEV, QA, and PROD**
+- Validated application behavior in cloud-based deployments
+- Collaborated with DevOps teams during releases
+- Gained strong understanding of **scalability, environment stability, and cloud-specific issues**
+
+---
+
+## 🧭 Professional Scrum Master
+- Worked in **Agile/Scrum teams**
+- Participated in sprint planning, stand-ups, backlog grooming, reviews, and retrospectives
+- Ensured **clear acceptance criteria** and early defect detection
+- Aligned QA activities with sprint goals for timely, high-quality delivery
+- Supported continuous improvement and team transparency
+
+---
+
+## 🗄 SQL
+- Wrote SQL queries to validate backend data
+- Verified data integrity and transactional accuracy
+- Compared expected vs actual results beyond UI testing
+- Strengthened **end-to-end testing coverage**
+
+---
+
+## ☕ Java
+- Used Java for **test automation development**
+- Built and maintained scalable automation frameworks
+- Applied OOP principles for reusable and maintainable code
+- Integrated automation with CI/CD pipelines
+- Collaborated efficiently with developers using shared code standards
+
+---
+
+## 🧪 Selenium WebDriver
+- Automated functional and regression tests for web applications
+- Implemented **Page Object Model (POM)** framework
+- Integrated with **TestNG**
+- Executed tests via **Jenkins**
+- Reduced manual testing effort and improved test coverage during tight release cycles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+## 🧠 Testing Expertise
+- Manual & Automation Testing  
+- SaaS Web Application Testing  
+- Smoke, Regression & UAT Testing  
+- Test Case Design & Execution  
+- Bug Reporting & Documentation  
+- Software Development Models:
+  - Waterfall
+  - V-Model
+  - Iterative & Incremental
+  - Agile / Scrum
+
+---
+
+## 🌱 Additional Skills
+- Basic Python /Java /JavaScript for test automation  
+- Basic HTML & CSS  
+- Documentation & Knowledge Sharing  
+
+---
+
+## 🤝 Soft Skills
+- Precision & attention to detail  
+- Strong communication  
+- Assertiveness  
+- Patience & empathy  
+
+
